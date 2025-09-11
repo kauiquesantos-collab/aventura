@@ -10,8 +10,16 @@ atual.classList.remover('ativo');
  console.error('elementocom iD "${prox      console.error('elementocom iD "${proximopasso}"nao encontrado.'    console.error('elementocom iD "${proximopasso}"nao encontrado.'imopasso}"nao encontrado.'
  
  if (proximoelementos.classlist.add('ativo');     console.error('elementocom iD "${proximopasso}"nao encontrado.'
- {els {      console.error('elementocom iD "${proximopasso}"nao encontrado.'
+ {els {      console.error('elementocom iD "${proximopasso}"nao encontrado. {
+ 
+  {
+  
+ {(;
 
-   {
-  {);
-{);
+{)
+
+   reinicia o jogo ao clicar no botao de renicio 
+    if (reiniciarbtn) {
+         reiniciarbtn. addEventlistener('click'), ()  => {
+           cont atual = document. querySelector('.ativo');
+           conts proximopasso = 'passo'
