@@ -17,9 +17,9 @@ atual.classList.remover('ativo');
  {(;
 
 {)
-
-   reinicia o jogo ao clicar no botao de renicio 
+  
+ reinciar o jogo ao clicar no botao de renicio 
     if (reiniciarbtn) {
          reiniciarbtn. addEventlistener('click'), ()  => {
            cont atual = document. querySelector('.ativo');
-           conts proximopasso = 'passo'
+           const proximopasso'passo'
